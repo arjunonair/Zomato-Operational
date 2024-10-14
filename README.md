@@ -59,7 +59,7 @@ The architecture of the pipeline includes:
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/your-repo/data-pipeline-zomato.git
+    git clone [https://github.com/your-repo/data-pipeline-zomato.git](https://github.com/arjunonair/Zomato-Operational.git)
     ```
 
 2. Set up Azure services:
